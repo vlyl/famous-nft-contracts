@@ -1,0 +1,3 @@
+[submodule "cryptopunks"]
+	path = cryptopunks
+	url = https://github.com/larvalabs/cryptopunks.git
